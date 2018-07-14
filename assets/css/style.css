@@ -100,6 +100,13 @@ h2 {
     line-height: 35px;
 }
 
+.gitHub {
+    float: right;
+    font-size: 20px;
+    
+}
+
+
 .input-style {
     width: 100%;
     height: 30px;
@@ -127,10 +134,9 @@ h2 {
 }
 
 .image-holder {
-    width: 375px;
-    height: 281px;
     float: left;
-    padding: 25px;
+    margin: 15px 20px 10px 20px;
+    border: 5px solid #4aaaa5;
 }
 
 .image-banner {
@@ -147,6 +153,10 @@ h2 {
     color: white;
     text-align: center;
     line-height: 50px;
+}
+
+.image-banner-text a {
+    text-decoration: none;
 }
 
 .navbar {
@@ -177,10 +187,6 @@ h2 {
 .navbar-light .navbar-nav .nav-link {
     color: #777777;
 }
-
-
-
-
 
 
 .full-header {
@@ -226,7 +232,8 @@ h2 {
     background-color: white;
     padding: 20px;
     font-size: 18px;
-    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #383838;
     margin-top: 20px;
 }
 
@@ -252,15 +259,13 @@ h2 {
     line-height: 60px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
-    color: white;
+    color: lightgray;
     background-color: #666666;
     border-top: 5px solid #4aaaa5;
 }
 
-.image-holder {
-    width: 375px;
-    height: 281px;
-    float: left;
-    padding: 20px;
-    margin: 15px 20px 15px 20px;
+.footer-links a {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4aaaa5;
 }
