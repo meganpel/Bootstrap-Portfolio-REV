@@ -1,2 +1,2 @@
-## View Portfolio on Live Link
+## View Portfolio
 https://meganpel.github.io/
